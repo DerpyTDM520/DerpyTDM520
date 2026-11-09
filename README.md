@@ -20,8 +20,8 @@ Public case labels describe engineering capabilities rather than unreleased prod
 | **Local Multimodal AI Agent** | Local inference, encrypted full-text memory retrieval, MCP/Skills tools, image-to-video generation, media processing, asset inventory checks, approved regression tasks and resource safeguards | Core tool calls and separate local generation/processing modules tested; not all modules form a one-click end-to-end agent workflow |
 | **Application Workflow Automation** | Structured public job information, browser forms, attachments and human review | Offline browser demonstration using example data; stops before submission |
 | **Cross-platform Note Application** | Native editing interfaces, shared data, recovery and interaction states | Selected simulator excerpts; original implementation remains private |
-| **Interactive Web Prototype** | Responsive layout, bilingual navigation and component feedback | Cropped interface details without product or character branding |
-| **Scene & Character Interaction** | Engine-based movement, environmental presentation and state feedback | Cropped runtime excerpts without names or detailed design panels |
+| **Interactive Web Prototype** | Responsive layout, bilingual navigation and component feedback | Full-frame interface screenshots with neutral public descriptions |
+| **Scene & Character Interaction** | Engine-based movement, environmental presentation and state feedback | Full-frame runtime excerpts with neutral public descriptions |
 | **Game Systems & Interfaces** | Real-time scenes, data visualization and interface validation | Selected interface details rather than complete game concepts |
 
 ### Local AI capabilities
