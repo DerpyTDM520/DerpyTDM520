@@ -3,7 +3,7 @@
 **AI agent workflows, cross-platform product systems, and evidence-driven engineering.**  
 Based in Jinan, China · Interested in China-based AI applications, software engineering, and digital product roles.
 
-[Portfolio website](https://derpytdm520.github.io/) · [Published research](https://doi.org/10.54254/2754-1169/2024.OX18493) · [MCM official results](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2024/results/2024_MCM_Problem_C_Results.pdf#page=227)
+[Portfolio website](https://derpytdm520.github.io/) · [Project demos](https://derpytdm520.github.io/demos.html) · [中文演示](https://derpytdm520.github.io/demos-zh.html) · [Published research](https://doi.org/10.54254/2754-1169/2024.OX18493) · [MCM official results](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2024/results/2024_MCM_Problem_C_Results.pdf#page=227)
 
 ## About me
 
