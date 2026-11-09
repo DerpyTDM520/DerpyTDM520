@@ -11,18 +11,24 @@ I turn requirements into **testable, explainable workflows**: define the problem
 
 I have a mathematics and statistics background, along with hands-on experience in agent tooling, cross-platform client development, browser interaction, game systems, and data research. I distinguish personal prototypes from shipped production services and AI-assisted work from independently written code.
 
-## Selected projects
+## Selected engineering cases
 
-| Project | What it demonstrates | Current scope |
+Public case labels describe engineering capabilities rather than unreleased product brands. Original project names, internal implementations, character identities and full design plans remain private.
+
+| Case | Work demonstrated | Verification scope |
 | --- | --- | --- |
-| **AgentStudio** | Custom MCP/Skills tools, local model/API integration, project memory, workflow orchestration, evidence checks | Personal development system; selected architecture and sanitized demonstrations |
-| **NotePenzo** | Cross-platform digital notes, shared data protocols, history/recovery, memory-aware assistant interactions | In development; based in part on an authorized upstream foundation; source private |
-| **CareerPilot** | Public ATS job-source normalization, evidence-based resume facts, encrypted local profiles, Playwright form-testing, human review gates | Controlled prototype; real unattended submission **not claimed** |
-| **Godot & Unreal prototypes** | Interactive rules, game-economy design, progression systems, gameplay validation, AI-assisted asset workflows | Original/cleared gameplay previews selectively available |
-| **Mimi Arcana (tarot web prototype)** | Browser UI, multi-part user journeys, tarot interaction and character/companion experience, Python-assisted local web service | Local prototype; public demonstration under licensing and privacy review |
-| **Additional web mini-game** | Lightweight browser-game and front-end interaction experiment | Case-study evidence and implementation details under verification |
+| **Local Multimodal AI Agent** | Local inference, encrypted full-text memory retrieval, MCP/Skills tools, image-to-video generation, media processing, asset inventory checks, approved regression tasks and resource safeguards | Core tool calls and separate local generation/processing modules tested; not all modules form a one-click end-to-end agent workflow |
+| **Application Workflow Automation** | Structured public job information, browser forms, attachments and human review | Offline browser demonstration using example data; stops before submission |
+| **Cross-platform Note Application** | Native editing interfaces, shared data, recovery and interaction states | Selected simulator excerpts; original implementation remains private |
+| **Interactive Web Prototype** | Responsive layout, bilingual navigation and component feedback | Cropped interface details without product or character branding |
+| **Scene & Character Interaction** | Engine-based movement, environmental presentation and state feedback | Cropped runtime excerpts without names or detailed design panels |
+| **Game Systems & Interfaces** | Real-time scenes, data visualization and interface validation | Selected interface details rather than complete game concepts |
 
-> Several repositories remain private for intellectual property, licensing, personal-data, or unreleased-product reasons. Selected demos, architecture diagrams, and redacted test evidence can be presented without exposing the original source tree.
+### Local AI capabilities
+
+The local workbench goes beyond chat. Image input, local video inference and MP4 export have produced real output; visual quality still requires review, and one-click generation through the main agent remains in integration. Other verified modules cover encrypted full-text retrieval, core tool calls, media-format conversion, asset integrity, predefined regression tasks and cooperative resource protection.
+
+[Explore capabilities](https://derpytdm520.github.io/demos.html#agent-capabilities) · [中文能力说明](https://derpytdm520.github.io/demos-zh.html#agent-capabilities)
 
 ## Skills and methods
 
